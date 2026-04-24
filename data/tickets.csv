@@ -1,0 +1,41 @@
+ticket_text,category,priority
+I was charged twice for my subscription this month,Billing,High
+My invoice shows wrong amount please correct it,Billing,Medium
+I need a refund for my recent purchase,Billing,High
+Payment failed but money was deducted from account,Billing,High
+I cannot find my billing history on the portal,Billing,Low
+My credit card was charged without authorization,Billing,High
+Please update my payment method to new card,Billing,Low
+I want to cancel my subscription and get refund,Billing,Medium
+Tax invoice not received for last month payment,Billing,Low
+Double payment made please reverse one transaction,Billing,High
+App crashes every time I try to open it,Technical,High
+Cannot login to my account password not working,Technical,High
+Website is loading very slowly for past 2 days,Technical,Medium
+Error 500 showing when I submit the contact form,Technical,Medium
+My data is not syncing across devices,Technical,Low
+The search feature is completely broken,Technical,Medium
+I keep getting logged out automatically,Technical,Low
+Two factor authentication code not received,Technical,High
+Dashboard not showing updated statistics,Technical,Low
+API integration keeps returning null values,Technical,Medium
+My order has not arrived after 2 weeks,Shipping,High
+Package was damaged when I received it,Shipping,High
+Wrong item was delivered to my address,Shipping,High
+Tracking number shows delivered but I got nothing,Shipping,High
+Need to change delivery address for my order,Shipping,Medium
+Order stuck in processing for 5 days now,Shipping,Medium
+Shipment delayed no update on tracking page,Shipping,Medium
+I received someone else's package by mistake,Shipping,Low
+Delivery attempted but I was home all day,Shipping,Low
+Express shipping not delivered within promised time,Shipping,High
+I want to delete my account permanently,Account,Low
+Cannot change my email address in settings,Account,Low
+My profile picture is not updating,Account,Low
+Account suspended without any reason or notice,Account,High
+I forgot my security questions please help,Account,Medium
+Need to merge two accounts into one,Account,Low
+Username already taken but I want that specific one,Account,Low
+Account hacked please help me recover it,Account,High
+Privacy settings not saving after I click save,Account,Low
+I need to update my phone number on account,Account,Low

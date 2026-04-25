@@ -117,9 +117,9 @@ python ticket_classification.py
 
 ## 👤 Author
 
-**[Your Name]**
+**[BHARATI KUMARI GUPTA]**
 Future Interns — ML Track
-GitHub: [@yourusername]
+GitHub: [@Bharatigupta]
 
 ---
 
